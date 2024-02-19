@@ -73,6 +73,7 @@
   border: none;
   border-radius: 15px;
   padding: 8px;
+  font-weight: bold;
 }
 .todo_list_container{
   margin-top: 20px;
