@@ -50,7 +50,7 @@
     localStorage.setItem('todoData', JSON.stringify(todoList.value));
   }
 
-</script>
+</script>                                                                                                                                                                                                                                             
 <style>
 .container {
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);

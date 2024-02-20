@@ -2,7 +2,7 @@
 import FirstPage from './components/FirstPage.vue'
 import HelloWorld from './components/HelloWorld.vue'
 import Task from './components/TaskComponent.vue';
-import TheWelcome from './components/TheWelcome.vue'
+// import TheWelcome from './components/TheWelcome.vue'
 </script>
 <template>
   <div class="centered">
