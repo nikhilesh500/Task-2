@@ -52,7 +52,10 @@
   }
 
 </script>                                                                                                                                                                                                                                             
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9807fa7c7b2cd1d2cdf6dfc96f3fe2d2d247713c
 <style>
 .container {
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
